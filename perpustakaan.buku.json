@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "683abedf852f0634a066a220"
+  },
+  "judul": "Basis Data",
+  "penulis": "Dewi",
+  "tahun": 2023,
+  "kategori": "Teknologi",
+  "stok": 7
+},
+{
+  "_id": {
+    "$oid": "683abee9852f0634a066a222"
+  },
+  "judul": "Matematika Diskrit",
+  "penulis": "Eka",
+  "tahun": 2019,
+  "kategori": "Matematika",
+  "stok": 4
+},
+{
+  "_id": {
+    "$oid": "683abf0a852f0634a066a224"
+  },
+  "judul": "PBO",
+  "penulis": "Budi",
+  "tahun": 2025,
+  "kategori": "Komputer",
+  "stok": 2
+},
+{
+  "_id": {
+    "$oid": "683ac14e340a53d43693a4cc"
+  },
+  "judul": "Pemrograman Python",
+  "penulis": "Andi",
+  "tahun": 2023,
+  "kategori": "Teknologi",
+  "stok": 5
+}]
